@@ -25,7 +25,7 @@ IntelliJ 실행화면
 단어 추가 화면
 
 
-<img width="1280" alt="단어추가 화면" src="https://user-images.githubusercontent.com/112460787/188879818-65faecbb-b1ed-473f-a4d4-6fc1fa55e2a8.PNG
+<img width="1280" alt="단어추가 화면" src="https://user-images.githubusercontent.com/112460787/188879818-65faecbb-b1ed-473f-a4d4-6fc1fa55e2a8.PNG>
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
