@@ -5,7 +5,7 @@
 2|Deuteronomy|신명기
 3|Joshua|여호수아
 1|Judges|사사기
-2|Ruth|롳기
+2|Ruth|룻기 
 3|1Samuel|사무엘상
 1|2Samuel|사무엘하
 2|1Kings|열왕기상
