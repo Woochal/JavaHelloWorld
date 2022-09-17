@@ -6,39 +6,56 @@
 
 
 
-IntelliJ 실행화면
+수준별 단어 보기 실행화면
 
 
-<img width="1280" alt="IDE 실행화면" src="https://user-images.githubusercontent.com/112460787/188879666-de60cbc9-583f-4d35-b39a-825d2884c7ae.PNG">
+<img width="735" alt="수준별 단어 보기 실행화면" src="https://user-images.githubusercontent.com/112460787/190862792-f0a91a24-0776-4372-a848-9eebe2818cde.PNG">
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-프로젝트 실행화면
+단어 검색 실행화면
 
 
-<img width="1280" alt="프로젝트 실행화면" src="https://user-images.githubusercontent.com/112460787/188879940-f02677ac-fc1b-481d-9948-28e7de5dcf49.PNG">
-
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-단어 추가 화면
-
-
-<img width="1280" alt="단어추가 화면" src="https://user-images.githubusercontent.com/112460787/188879818-65faecbb-b1ed-473f-a4d4-6fc1fa55e2a8.PNG">
+<img width="555" alt="단어 검색 실행 화면" src="https://user-images.githubusercontent.com/112460787/190862813-e579489f-e417-433b-a0cf-a7b726abb874.PNG">
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-모든 단어 보기 실행 화면
+단어 수정 실행화면
 
-<img width="915" alt="모든 단어 보기 실행화면" src="https://user-images.githubusercontent.com/112460787/188879890-e39378bf-9316-4fc5-8ba6-3d9aa8db4a22.PNG">
+
+<img width="990" alt="단어 수정 실행 화면" src="https://user-images.githubusercontent.com/112460787/190862831-61bec917-b782-4b4b-b515-58eead29df69.PNG">
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-프로젝트 종료 화면
+단어 삭제 실행화면
 
-<img width="444" alt="프로젝트 종료화면" src="https://user-images.githubusercontent.com/112460787/188879994-4929281e-a0e7-4288-aa8c-589175aa8071.PNG">
+<img width="940" alt="단어 삭제 실행화면1" src="https://user-images.githubusercontent.com/112460787/190862843-45f3d3de-18c0-4c10-a94f-fdbe09c63faf.PNG">
+<img width="1033" alt="단어 삭제 실행화면2" src="https://user-images.githubusercontent.com/112460787/190862846-99ea3764-6f4b-424e-a055-926f1163dfb9.PNG">
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+파일 저장 실행화면
+
+
+<img width="371" alt="데이터 저장 실행화면1" src="https://user-images.githubusercontent.com/112460787/190862861-b6306077-b9ab-43c4-b0c5-0c5026864bd0.PNG">
+<img width="1280" alt="데이터 저장 파일 내용" src="https://user-images.githubusercontent.com/112460787/190862863-49ba91ef-75bb-4e57-81a3-4bcb2ca24f34.PNG">
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+단어 가져오기 & 모든 단어 보기 화면
+
+
+<img width="571" alt="단어 가져오기 실행화면" src="https://user-images.githubusercontent.com/112460787/190862902-929bc019-2d56-45b8-8a53-94e71b3ca54c.PNG">
+<img width="890" alt="단어 보기 실행화면" src="https://user-images.githubusercontent.com/112460787/190862907-f5af0dcf-8dc3-4886-81bd-e3037474fcd8.PNG">
+
